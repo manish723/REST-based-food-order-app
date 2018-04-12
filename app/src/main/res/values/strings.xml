@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food_order</string>
+    <string name="facebook_app_id">968294280018496</string>
+    <string name="fb_login_protocol_scheme">fb968294280018496</string>
+    <string name="imgSplash" />
+    <string name="txtTitle2" />
+    <string name="txtDescription" />
+    <string name="txtPrice"> 11.50$ </string>
+    <string name="btnGoMain">Menu/Logout</string>
+    <string name="buttonContinue">Continue</string>
+    <string name="btnPayment">Make Online Payment</string>
+</resources>
