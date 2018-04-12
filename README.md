@@ -3,7 +3,7 @@
 Food Order App
 
 ```markdown
-This is the REST API BASED food-order application. Name of the application is Food-Mania. Customers
+This is the REST BASED food-order application.The Name of the application is Food-Mania. Customers
 can order various kinds of food by selecting the categories of their choices.
 The app is retrieving the recipes list from web server and displaying it on the first page of the app and
 when customer select any one recipe from the list, the further information such as description of the
